@@ -10,4 +10,4 @@ getgenv().Settings = {
 };
 -- CONFIG END --
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/Punchy-Alt-Control/main/main.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Inquesthub/Punchy-Alt-Control/main/main.lua", true))()
